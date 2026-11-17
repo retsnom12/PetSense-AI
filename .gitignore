@@ -41,3 +41,9 @@ htmlcov/
 .DS_Store
 .petsense_*
 
+data/
+raw_catmeows/
+*.wav
+*.h5
+*.pt
+*.pkl
